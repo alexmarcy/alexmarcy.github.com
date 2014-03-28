@@ -1,15 +1,15 @@
-title:            Site Title
+title:            Alex Marcy
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://www.alexmarcy.com
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Alex Marcy
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Hello, I'm Alex. I build systems."
+  email:          alexmarcy@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
@@ -39,14 +39,10 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
