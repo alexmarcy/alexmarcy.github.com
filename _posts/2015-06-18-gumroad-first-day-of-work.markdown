@@ -14,6 +14,6 @@ I'm excited to see the progress other people seem to be making in the group, it 
 
 The real power of the challenge so far seems to be forcing myself to come up with an idea in one day. Too many times in the past have I gotten lost on a project in that phase, never making to an outline. This seems to be the exact outcome <a href="http://sethgodin.typepad.com/">Seth Godin</a> was providing with his Ship It workbooks. Basically get rid of all of the BS and come up with an idea. If it is a decent one, give it to some of the low-hanging fruit of scrutiny and get on with your day. 
 
-Enough rambling today, I should probably start focusing on a story for future posts since my product for the challenge is "Story Selling" (a play on Storytelling, hilarious!).
+Enough rambling today, I should probably start focusing on a story for future posts since my product for the challenge is "<a href="http://alexmarcy.com/storyselling.html">Story Selling</a>" (a play on Storytelling, hilarious!).
 
 Focus on stacking the brick in your hand, not the entire pallet of them behind you.
