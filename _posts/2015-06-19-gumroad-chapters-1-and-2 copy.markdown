@@ -1,6 +1,6 @@
 ---
 title:  "Gumroad Small Product Lab - Chapters 1 and 2"
-date:   2016-06-18 2:23:00
+date:   2016-06-19 2:23:00
 description: Gumroad Small Product Lab - Chapters 1 and 2
 ---
 
