@@ -1,6 +1,6 @@
 ---
 title:  "Gumroad Small Product Lab - Conclusion"
-date:   2016-06-25 2:23:00
+date:   2015-06-25 2:23:00
 description: Gumroad Small Product Lab - Conclusion
 ---
 

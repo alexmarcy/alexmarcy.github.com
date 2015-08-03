@@ -1,6 +1,6 @@
 ---
 title:  "Gumroad Small Product Lab - First Day of Work"
-date:   2016-06-18 2:23:00
+date:   2015-06-18 2:23:00
 description: Gumroad Small Product Lab - First Day of Work
 ---
 
