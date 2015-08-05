@@ -1,0 +1,28 @@
+---
+title:  "Dialogue"
+date:   2015-08-05 2:23:00
+description: Sometimes a conversation is the best approach
+---
+
+I read Hacker News and Reddit regularly. As the rest of the world is keenly aware, these sites are notorious for negativity. 
+
+I'm not talking about someone thinking something is a terrible idea and then having a constructive debate where both sides are willing to listen, and at the very least cordially agree to disagree. Or the opposite with someone thinking they have a great idea and participating in a debate.
+
+The negativity on these sites runs much deeper than that. 
+
+Today there was a post on Coding Horror about virtual reality and how it isn't all it is cracked up to be based on the expectations set by marketing. I completely agree with this opinion. I have tried out a few versions of the Oculus Rift and I simply wasn't impressed. Having seen dozens of movies in 3D I am also utterly underwhelmed by the 3D experience. There was a majority of commenters when I looked at the Hacker News post who agreed. Now I'm not saying everyone needs to agree, we can certainly have civil discussions and debates on these topics, however the people who didn't agree with Jeff Atwood's opinion seemed to take it as a personal attack.
+
+There were posts about how VR was the greatest technology ever to be invented, and that the people who didn't agree had a personal problem. They hadn't "done VR the right way" or experienced "presence" because if they had experienced "presence" they would be so enamored with VR they couldn't imagine a world without it. Sure, experiencing presence makes for a more enjoyable experience than not, as it seems to get you more "in the world", experiencing a game in a different way. Presence experienced still does not sell me on the VR technology, or at least as it stands today.
+
+Why does such a simple statement that "VR isn't all it is cracked up to be" cause such a divide in a group of people who are presumably all on the same team?
+
+I have no idea.
+
+On the much more impactful front, why does Reddit inspire misogynistic hate-speak? I again am completely baffled.
+
+I think it would be really interesting to take some of the people who are the worst offenders and observe them in the real world without the banner of anonymity their screenn ame provides. Would they say these same things to someone at the grocery store? I highly doubt it. 
+
+What is the right action to take in these cases? Given the potential for complete anonymity on the internet, trying to fight it by joining in and convincing them of their wrongs is certainly not the right approach. At least for me the right approach is simply to stop going to those corners of the internet.
+
+Will I lose out on some information that might be useful to me? Likely, but having been on the internet for nearly 20 years, there isn't a whole lot of information they I haven't been able to live without, most certainly not information from any sites that attract these sorts of comments.
+
